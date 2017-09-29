@@ -1,0 +1,20 @@
+{
+  "name": "node-opskins-manager",
+  "version": "1.0.0",
+  "description": "Opskins manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opskins",
+    "steam"
+  ],
+  "author": "Gadzhiev Said",
+  "license": "ISC",
+  "dependencies": {
+    "@opskins/api": "^1.4.1",
+    "appdirectory": "^0.1.0",
+    "debug": "^3.1.0"
+  }
+}
